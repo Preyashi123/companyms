@@ -1,0 +1,10 @@
+com\wellsfargo\stockmarket\companydetails\repository\CompanyStockPriceRepository.class
+com\wellsfargo\stockmarket\companydetails\entity\BoardOfDir.class
+com\wellsfargo\stockmarket\companydetails\entity\CompanyStockPrice.class
+com\wellsfargo\stockmarket\companydetails\service\CompanyService.class
+com\wellsfargo\stockmarket\companydetails\CompanyDetailsApplication.class
+com\wellsfargo\stockmarket\companydetails\controller\CompnayStockPriceController.class
+com\wellsfargo\stockmarket\companydetails\service\CompanyStockPriceService.class
+com\wellsfargo\stockmarket\companydetails\controller\CompanyController.class
+com\wellsfargo\stockmarket\companydetails\entity\Company.class
+com\wellsfargo\stockmarket\companydetails\repository\CompanyRepository.class
