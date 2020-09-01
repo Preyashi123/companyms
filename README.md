@@ -11,12 +11,12 @@ Content of Repository
 
 Steps to run the microservice.
 1. Setting Up Mysql Database.
-  1.1 Open Mysql workbench and create a connection.
-  1.2 Create a database. 
-      Create DatabaseName;
-  1.3 Select the database.
-      Use DatabaseName;
-  1.4 Then run the queries provided in SQL- Table creation folder one by one.
+1.1 Open Mysql workbench and create a connection.
+1.2 Create a database. 
+    Create DatabaseName;  
+1.3 Select the database.
+    Use DatabaseName;
+1.4 Then run the queries provided in SQL- Table creation folder one by one.
   
 2. Running Springboot application.
   
